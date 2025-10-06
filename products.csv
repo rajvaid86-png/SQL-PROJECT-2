@@ -1,0 +1,380 @@
+product_id,brand,product_name,price,category,sub_category,color,model_number
+1,,Bassheads 900,849,wired headphones,wired headphones,Grey,SKU-000001
+2,,BassHeads 242,599,wired headphones,wired headphones,Grey,SKU-000007
+3,,TRebel BassHeads 242,599,wired headphones,wired headphones,Black,SKU-000013
+4,,BassHeads 152,449,wired headphones,wired headphones,White,SKU-000019
+5,,BassHeads 172,499,wired headphones,wired headphones,Grey,SKU-000025
+6,,BassHeads 100,399,wired headphones,wired headphones,Grey,SKU-000031
+7,,BassHeads 102,449,wired headphones,wired headphones,Black,SKU-000037
+8,,BassHeads 103,499,wired headphones,wired headphones,Black,SKU-000043
+9,,BassHeads 220,699,wired headphones,wired headphones,White,SKU-000049
+10,,TRebel BassHeads 100,399,wired headphones,wired headphones,White,SKU-000109
+11,,TRebel BassHeads 152,499,wired headphones,wired headphones,Black,SKU-000115
+12,,BassHeads 104,449,wired headphones,wired headphones,White,SKU-000121
+13,,TRebel BassHeads 102,399,wired headphones,wired headphones,White,SKU-000127
+14,,TRebel BassHeads 103,499,wired headphones,wired headphones,White,SKU-000133
+15,,Bassheads 192 - Make in India,449,wired headphones,wired headphones,Grey,SKU-000139
+16,,BassHeads 225,399,wired headphones,wired headphones,Black,SKU-000140
+17,,BassHeads 228,699,wired headphones,wired headphones,White,SKU-000146
+18,,BassHeads 110,449,wired headphones,wired headphones,Grey,SKU-000147
+19,,Airdopes 131,999,wireless earbuds,wireless earbuds,Black,SKU-000154
+20,,Airdopes 131 PRO,1199,wireless earbuds,wireless earbuds,Black,SKU-000160
+21,,Airdopes 411 ANC,2499,wireless earbuds,wireless earbuds,Beige,SKU-000166
+22,,Airdopes 121 PRO,1499,wireless earbuds,wireless earbuds,Green,SKU-000172
+23,,Airdopes 141,1499,wireless earbuds,wireless earbuds,Green,SKU-000178
+24,,Airdopes 121 v2,1299,wireless earbuds,wireless earbuds,Blue,SKU-000184
+25,,Airdopes 402,1499,wireless earbuds,wireless earbuds,White,SKU-000190
+26,,Airdopes 115,999,wireless earbuds,wireless earbuds,Green,SKU-000196
+27,,TRebel Airdopes 141,1499,wireless earbuds,wireless earbuds,White,SKU-000202
+28,,TRebel Airdopes 131,1299,wireless earbuds,wireless earbuds,Blue,SKU-000262
+29,,Airdopes 161,1381,wireless earbuds,wireless earbuds,Green,SKU-000268
+30,,Airdopes 441,1999,wireless earbuds,wireless earbuds,Black,SKU-000274
+31,,Airdopes 141 Pro,1699,wireless earbuds,wireless earbuds,White,SKU-000280
+32,,Airdopes 381,1999,wireless earbuds,wireless earbuds,Green,SKU-000286
+33,,Airdopes 413 ANC,2499,wireless earbuds,wireless earbuds,White,SKU-000292
+34,,Airdopes 138,1499,wireless earbuds,wireless earbuds,Blue,SKU-000298
+35,,TRebel Airdopes 381,2199,wireless earbuds,wireless earbuds,Beige,SKU-000304
+36,,TRebel Airdopes 402,1999,wireless earbuds,wireless earbuds,Green,SKU-000310
+37,,Airdopes 171,1499,wireless earbuds,wireless earbuds,Green,SKU-000316
+38,,Airdopes 181,1599,wireless earbuds,wireless earbuds,Black,SKU-000322
+39,,Airdopes 451v2,2999,wireless earbuds,wireless earbuds,Beige,SKU-000328
+40,,Airdopes 131 Captain America Marvel Edition,1599,wireless earbuds,wireless earbuds,White,SKU-000334
+41,,Airdopes 601 ANC,2999,wireless earbuds,wireless earbuds,Green,SKU-000340
+42,,Airdopes 441 Pro,2999,wireless earbuds,wireless earbuds,Green,SKU-000343
+43,,TRebel Airdopes 441 Pro,2999,wireless earbuds,wireless earbuds,Green,SKU-000349
+44,,Airdopes 500 ANC,4499,wireless earbuds,wireless earbuds,Blue,SKU-000354
+45,,Airdopes 131 Iron Man Marvel Edition,1599,wireless earbuds,wireless earbuds,Black,SKU-000357
+46,,Rockerz 235 V2,1183,wireless headphones,wireless headphones,Grey,SKU-000363
+47,,Rockerz 255 Pro+,1299,wireless headphones,wireless headphones,Black,SKU-000369
+48,,Rockerz 245 V2,1299,wireless headphones,wireless headphones,Red,SKU-000375
+49,,Rockerz 330,1299,wireless headphones,wireless headphones,Navy Blue,SKU-000381
+50,,Rockerz 333,1399,wireless headphones,wireless headphones,Grey,SKU-000387
+51,,Rockerz 255,1299,wireless headphones,wireless headphones,Black,SKU-000393
+52,,Rockerz 550,1999,wireless headphones,wireless headphones,Grey,SKU-000399
+53,,Rockerz 255 Pro,1399,wireless headphones,wireless headphones,Red,SKU-000405
+54,,Rockerz 103 Pro,999,wireless headphones,wireless headphones,Red,SKU-000411
+55,,Rockerz 450,1499,wireless headphones,wireless headphones,Grey,SKU-000471
+56,,Rockerz 255R,1299,wireless headphones,wireless headphones,Grey,SKU-000477
+57,,Rockerz 333 Pro,1799,wireless headphones,wireless headphones,Black,SKU-000483
+58,,Rockerz 260,1299,wireless headphones,wireless headphones,Grey,SKU-000489
+59,,Rockerz 335,1699,wireless headphones,wireless headphones,Red,SKU-000495
+60,,Rockerz 510,1299,wireless headphones,wireless headphones,Red,SKU-000501
+61,,Rockerz 370,1199,wireless headphones,wireless headphones,Black,SKU-000507
+62,,Rockerz 255 Neo,1299,wireless headphones,wireless headphones,Grey,SKU-000513
+63,,Rockerz 261,849,wireless headphones,wireless headphones,Red,SKU-000519
+64,,Rockerz 333 ANC,1899,wireless headphones,wireless headphones,Red,SKU-000525
+65,,Rockerz 385 V2,1499,wireless headphones,wireless headphones,Navy Blue,SKU-000531
+66,,Rockerz 235 Pro,999,wireless headphones,wireless headphones,Red,SKU-000537
+67,,Rockerz 255F,1299,wireless headphones,wireless headphones,Black,SKU-000543
+68,,Rockerz 260 v1,1199,wireless headphones,wireless headphones,Grey,SKU-000549
+69,,Rockerz 330 Pro,1799,wireless headphones,wireless headphones,Red,SKU-000555
+70,,Rockerz 400,1499,wireless headphones,wireless headphones,Red,SKU-000561
+71,,Rockerz 245 Pro,1299,wireless headphones,wireless headphones,Black,SKU-000567
+72,,Rockerz 205 Pro,999,wireless headphones,wireless headphones,Grey,SKU-000573
+73,,TRebel Rockerz 255 Pro,1499,wireless headphones,wireless headphones,Black,SKU-000579
+74,,Rockerz 255 Pro Made in India,1399,wireless headphones,wireless headphones,Black,SKU-000583
+75,,TRebel Rockerz 235 V2,1199,wireless headphones,wireless headphones,Red,SKU-000589
+76,,Rockerz 330 ANC,1999,wireless headphones,wireless headphones,Grey,SKU-000595
+77,,Rockerz 600,1699,wireless headphones,wireless headphones,Navy Blue,SKU-000601
+78,,Rockerz 375,999,wireless headphones,wireless headphones,Red,SKU-000607
+79,,Rockerz 518,1599,wireless headphones,wireless headphones,Black,SKU-000613
+80,,Nirvanaa 751 ANC,3999,wireless headphones,wireless headphones,Navy Blue,SKU-000619
+81,,Rockerz 450R,1499,wireless headphones,wireless headphones,Black,SKU-000625
+82,,Rockerz 425,1499,wireless headphones,wireless headphones,Grey,SKU-000631
+83,,Rockerz 450 Batman DC Edition,1299,wireless headphones,wireless headphones,Red,SKU-000637
+84,,Rockerz 255 ARC,1299,wireless headphones,wireless headphones,Black,SKU-000643
+85,,Trebel Rockerz 255 Pro+,1599,wireless headphones,wireless headphones,Red,SKU-000644
+86,,Stone 1000v2,3999,bluetooth speakers,bluetooth speakers,Green,SKU-000650
+87,,Stone Grenade,1499,bluetooth speakers,bluetooth speakers,Blue,SKU-000656
+88,,Stone 190,1299,bluetooth speakers,bluetooth speakers,Blue,SKU-000662
+89,,Stone 352,1699,bluetooth speakers,bluetooth speakers,Yellow,SKU-000668
+90,,Stone 650,1999,bluetooth speakers,bluetooth speakers,Red,SKU-000674
+91,,Stone 1200F,3999,bluetooth speakers,bluetooth speakers,Black,SKU-000680
+92,,Stone 135,899,bluetooth speakers,bluetooth speakers,Black,SKU-000686
+93,,Stone 180,939,bluetooth speakers,bluetooth speakers,Yellow,SKU-000692
+94,,Rugby Plus,1999,bluetooth speakers,bluetooth speakers,Yellow,SKU-000698
+95,,Stone 500,1999,bluetooth speakers,bluetooth speakers,Red,SKU-000758
+96,,Stone 1000v2,3999,BoatProduct,BoatProduct,Blue,SKU-000764
+97,,Stone Grenade,1499,BoatProduct,BoatProduct,Grey,SKU-000770
+98,,Stone 190,1299,BoatProduct,BoatProduct,Black,SKU-000776
+99,,Stone 352,1699,BoatProduct,BoatProduct,Blue,SKU-000782
+100,,Stone 650,1999,BoatProduct,BoatProduct,Grey,SKU-000788
+101,,Stone 1200F,3999,BoatProduct,BoatProduct,Silver,SKU-000794
+102,,Stone 135,899,BoatProduct,BoatProduct,Black,SKU-000800
+103,,Stone 180,939,BoatProduct,BoatProduct,Black,SKU-000806
+104,,Rugby Plus,1999,BoatProduct,BoatProduct,Blue,SKU-000812
+105,,Rugby Plus,1999,BoatProduct,BoatProduct,Black,SKU-000872
+106,,Rugby Plus,1899,BoatProduct,BoatProduct,White,SKU-000878
+107,,Aavante Bar 550,1999,BoatProduct,BoatProduct,Black,SKU-000879
+108,,Aavante Bar 1500,9499,BoatProduct,BoatProduct,Blue,SKU-000885
+109,,Aavante Bar 2000,10999,BoatProduct,BoatProduct,Grey,SKU-000891
+110,,Aavante Bar 1250,6999,BoatProduct,BoatProduct,Grey,SKU-000897
+111,,Aavante Bar 1400,8999,BoatProduct,BoatProduct,Silver,SKU-000903
+112,,Aavante Bar 1800,9999,BoatProduct,BoatProduct,Silver,SKU-000904
+113,,Aavante 1600D,9999,BoatProduct,BoatProduct,Grey,SKU-000905
+114,,Aavante Bar 900,3499,BoatProduct,BoatProduct,Silver,SKU-000906
+115,,Rockerz 558 Sunburn Edition,1999,BoatProduct,BoatProduct,Grey,SKU-000911
+116,,Airdopes 383 Sunburn Edition,2499,BoatProduct,BoatProduct,Silver,SKU-000912
+117,,Airdopes 131 Captain America Marvel Edition,1599,BoatProduct,BoatProduct,Grey,SKU-000918
+118,,Airdopes 131 Iron Man Marvel Edition,1599,BoatProduct,BoatProduct,Black,SKU-000924
+119,,Bassheads 172 Sunburn Edition,349,BoatProduct,BoatProduct,Silver,SKU-000930
+120,,BassHeads 152 Sunburn Edition,399,BoatProduct,BoatProduct,Black,SKU-000936
+121,,Airdopes 381 Sunburn Edition,2999,BoatProduct,BoatProduct,Grey,SKU-000973
+122,,Watch Storm - Captain America Marvel Edition,1999,BoatProduct,BoatProduct,Grey,SKU-000974
+123,,Airdopes 441 KKR Edition,2499,BoatProduct,BoatProduct,Black,SKU-000975
+124,,Stone 190 - Captain America Marvel Edition,1299,BoatProduct,BoatProduct,Black,SKU-000976
+125,,Stone SpinX 2.0 Bira Edition,2099,BoatProduct,BoatProduct,Black,SKU-000978
+126,,Stone 190 - Iron Man Marvel Edition,1299,BoatProduct,BoatProduct,Silver,SKU-000984
+127,,Airdopes 381 Masaba Edition,2299,BoatProduct,BoatProduct,Black,SKU-000987
+128,,Stone 190 - Black Panther Marvel Edition,1299,BoatProduct,BoatProduct,Black,SKU-000989
+129,,Rockerz 450 - Iron Man Marvel Edition,1799,BoatProduct,BoatProduct,Blue,SKU-000990
+130,,Watch Storm - Black Panther Marvel Edition,1999,BoatProduct,BoatProduct,Blue,SKU-000996
+131,,Rockerz 550 Sunburn Edition,1499,BoatProduct,BoatProduct,Grey,SKU-000998
+132,,Rockerz 600 KKR Edition,2499,BoatProduct,BoatProduct,Silver,SKU-001004
+133,,Airdopes 441 - Masaba Edition,1799,BoatProduct,BoatProduct,Blue,SKU-001008
+134,,BassHeads 152 KKR Edition,549,BoatProduct,BoatProduct,Black,SKU-001014
+135,,Bassheads 172 KKR Edition,499,BoatProduct,BoatProduct,Blue,SKU-001020
+136,,Airdopes 131 Batman DC Edition,999,BoatProduct,BoatProduct,Blue,SKU-001021
+137,,Airdopes 131,999,BoatProduct,BoatProduct,Grey,SKU-001027
+138,,Airdopes 441 Pro Special Batman Edition,2199,BoatProduct,BoatProduct,Blue,SKU-001034
+139,,Rockerz 450 Batman DC Edition,1299,BoatProduct,BoatProduct,Black,SKU-001040
+140,,Rockerz 450 DC edition,1299,BoatProduct,BoatProduct,Blue,SKU-001046
+141,,Rockerz 450,1299,BoatProduct,BoatProduct,Grey,SKU-001050
+142,,Misfit T50 Trimmer,989,BoatProduct,BoatProduct,Grey,SKU-001052
+143,,Misfit T50 Lite,879,BoatProduct,BoatProduct,Silver,SKU-001058
+144,,Misfit T30 Trimmer,769,BoatProduct,BoatProduct,Grey,SKU-001062
+145,,Misfit T200 3-in-1 Grooming Kit for Men,1199,BoatProduct,BoatProduct,Blue,SKU-001067
+146,,Misfit T200,1699,BoatProduct,BoatProduct,Black,SKU-001069
+147,,Misfit T150 Trimmer,1429,BoatProduct,BoatProduct,Blue,SKU-001075
+148,,Mask,499,BoatProduct,BoatProduct,Grey,SKU-001101
+149,,Deuce 330,299,BoatProduct,BoatProduct,Blue,SKU-001107
+150,,LTG 500 Indestructible Apple Certified Lightning Cable 2 Meter,899,BoatProduct,BoatProduct,Black,SKU-001111
+151,,Micro USB 150 1.5 Meter,499,BoatProduct,BoatProduct,Black,SKU-001117
+152,,A400 USB Type C Data Cable,349,BoatProduct,BoatProduct,Grey,SKU-001119
+153,,Type C C400,499,BoatProduct,BoatProduct,Silver,SKU-001125
+154,,Rugged V3 Micro USB 1.5 Meter,299,BoatProduct,BoatProduct,Grey,SKU-001131
+155,,Deuce USB 300,299,BoatProduct,BoatProduct,Blue,SKU-001137
+156,,Micro USB 500 Cable 1.5 Meter,279,BoatProduct,BoatProduct,Blue,SKU-001185
+157,,LTG 500 Indestructible Apple Certified Lightning Cable 1 Meter,799,BoatProduct,BoatProduct,Grey,SKU-001191
+158,,Energyshroom PB10,949,BoatProduct,BoatProduct,Blue,SKU-001197
+159,,Energyshroom PB9,949,BoatProduct,BoatProduct,Blue,SKU-001198
+160,,Dual Port Rapid Car Charger (Qualcomm Certified),449,BoatProduct,BoatProduct,Blue,SKU-001200
+161,,Micro USB 100 1 Meter,199,BoatProduct,BoatProduct,Blue,SKU-001206
+162,,Dual QC-PD Port Rapid Car Charger With Power Delivery Cable,699,BoatProduct,BoatProduct,Blue,SKU-001212
+163,,Dual QC-PD Port Rapid Car Charger With Type C Cable,599,BoatProduct,BoatProduct,Blue,SKU-001214
+164,,Wave Select,2099,BoatProduct,BoatProduct,Black,SKU-001220
+165,,Storm Call,1799,BoatProduct,BoatProduct,Black,SKU-001226
+166,,Wave Beat,1499,BoatProduct,BoatProduct,Blue,SKU-001232
+167,,Wave Neo,1499,BoatProduct,BoatProduct,Blue,SKU-001237
+168,,Wave Connect,2999,BoatProduct,BoatProduct,Black,SKU-001243
+169,,Xtend‌,2699,BoatProduct,BoatProduct,Grey,SKU-001249
+170,,Wave Call,1799,BoatProduct,BoatProduct,Black,SKU-001255
+171,,Wave Lite,1699,BoatProduct,BoatProduct,Silver,SKU-001261
+172,,Watch Flash,1399,BoatProduct,BoatProduct,Blue,SKU-001267
+173,,Storm,1499,BoatProduct,BoatProduct,Silver,SKU-001326
+174,,Wave Style,1449,BoatProduct,BoatProduct,Grey,SKU-001332
+175,,Xplorer‌‌ O2,3999,BoatProduct,BoatProduct,Blue,SKU-001338
+176,,Wave Pro,1499,BoatProduct,BoatProduct,Blue,SKU-001344
+177,,Blaze,3499,BoatProduct,BoatProduct,Blue,SKU-001350
+178,,Matrix,3499,BoatProduct,BoatProduct,Grey,SKU-001356
+179,,Xtend Talk,2999,BoatProduct,BoatProduct,Black,SKU-001362
+180,,Storm Pro,2499,BoatProduct,BoatProduct,Silver,SKU-001368
+181,,Xtend Sport,2499,BoatProduct,BoatProduct,Black,SKU-001374
+182,,Mystiq,2499,BoatProduct,BoatProduct,Blue,SKU-001380
+183,,Wave Pro 47,1799,BoatProduct,BoatProduct,Silver,SKU-001385
+184,,TRebel Matrix,4999,BoatProduct,BoatProduct,Grey,SKU-001391
+185,,TRebel Blaze,3999,BoatProduct,BoatProduct,Grey,SKU-001392
+186,,TRebel Xtend‌,3499,BoatProduct,BoatProduct,Blue,SKU-001398
+187,,Wave Play,1999,BoatProduct,BoatProduct,Grey,SKU-001401
+188,,Watch Storm - Iron Man Marvel Edition,1999,BoatProduct,BoatProduct,Grey,SKU-001402
+189,,Wave Ultima,2999,BoatProduct,BoatProduct,Blue,SKU-001406
+190,,TRebel Watch Straps,399,BoatProduct,BoatProduct,Silver,SKU-001411
+191,,Wave Voice,2699,BoatProduct,BoatProduct,Blue,SKU-001412
+192,,Storm RTL,2999,BoatProduct,BoatProduct,Silver,SKU-001413
+193,,TRebel Rockerz 333,1599,BoatProduct,BoatProduct,Silver,SKU-001423
+194,,TRebel Airdopes 381,2199,BoatProduct,BoatProduct,Silver,SKU-001429
+195,,TRebel Airdopes 402,1999,BoatProduct,BoatProduct,Silver,SKU-001435
+196,,TRebel BassHeads 100,399,BoatProduct,BoatProduct,Blue,SKU-001441
+197,,TRebel Rockerz 450,1499,BoatProduct,BoatProduct,Grey,SKU-001450
+198,,TRebel BassHeads 103,499,BoatProduct,BoatProduct,Silver,SKU-001451
+199,,TRebel Airdopes 141,1499,BoatProduct,BoatProduct,Grey,SKU-001457
+200,,TRebel BassHeads 102,399,BoatProduct,BoatProduct,Blue,SKU-001509
+201,,"TRebel Airdopes 171 - Wireless Earbuds with 6mm Drivers, 380mAh Charging cum Carrying Case, IPX4 Sweat and Water Resistance, 13H nonstop Music",1799,BoatProduct,BoatProduct,Silver,SKU-001515
+202,,TRebel Rockerz 330 Pro,1799,BoatProduct,BoatProduct,Black,SKU-001519
+203,,Trebel Rockerz 255 Pro+,1599,BoatProduct,BoatProduct,Blue,SKU-001522
+204,,TRebel Airdopes 181,1599,BoatProduct,BoatProduct,Grey,SKU-001528
+205,,TRebel Rockerz 235 V2,1199,BoatProduct,BoatProduct,Black,SKU-001533
+206,,TRebel Airdopes 131,1299,BoatProduct,BoatProduct,Grey,SKU-001539
+207,,TRebel BassHeads 152,499,BoatProduct,BoatProduct,Blue,SKU-001545
+208,,TRebel Airdopes 441 Pro,2999,BoatProduct,BoatProduct,Black,SKU-001551
+209,,TRebel Rockerz 255 Pro,1499,BoatProduct,BoatProduct,Grey,SKU-001556
+210,,Bassheads 900,849,BoatProduct,BoatProduct,Silver,SKU-001561
+211,,BassHeads 242,599,BoatProduct,BoatProduct,Grey,SKU-001567
+212,,TRebel BassHeads 242,599,BoatProduct,BoatProduct,Silver,SKU-001573
+213,,BassHeads 152,449,BoatProduct,BoatProduct,Black,SKU-001579
+214,,BassHeads 172,499,BoatProduct,BoatProduct,Blue,SKU-001585
+215,,BassHeads 100,399,BoatProduct,BoatProduct,Blue,SKU-001591
+216,,BassHeads 102,449,BoatProduct,BoatProduct,Grey,SKU-001597
+217,,BassHeads 103,499,BoatProduct,BoatProduct,Grey,SKU-001603
+218,,BassHeads 220,699,BoatProduct,BoatProduct,Silver,SKU-001609
+219,,BassHeads 104,449,BoatProduct,BoatProduct,Blue,SKU-001681
+220,,Bassheads 192 - Make in India,449,BoatProduct,BoatProduct,Black,SKU-001699
+221,,BassHeads 225,399,BoatProduct,BoatProduct,Blue,SKU-001700
+222,,BassHeads 228,699,BoatProduct,BoatProduct,Black,SKU-001706
+223,,BassHeads 110,449,BoatProduct,BoatProduct,Silver,SKU-001707
+224,,Airdopes 131 PRO,1199,BoatProduct,BoatProduct,Silver,SKU-001721
+225,,Airdopes 411 ANC,2499,BoatProduct,BoatProduct,Blue,SKU-001727
+226,,Airdopes 121 PRO,1499,BoatProduct,BoatProduct,Silver,SKU-001733
+227,,Airdopes 141,1499,BoatProduct,BoatProduct,Black,SKU-001739
+228,,Airdopes 121 v2,1299,BoatProduct,BoatProduct,Grey,SKU-001745
+229,,Airdopes 402,1499,BoatProduct,BoatProduct,Grey,SKU-001751
+230,,Airdopes 115,999,BoatProduct,BoatProduct,Black,SKU-001757
+231,,Airdopes 161,1381,BoatProduct,BoatProduct,Blue,SKU-001829
+232,,Airdopes 441,1999,BoatProduct,BoatProduct,Silver,SKU-001835
+233,,Airdopes 141 Pro,1699,BoatProduct,BoatProduct,Grey,SKU-001841
+234,,Airdopes 381,1999,BoatProduct,BoatProduct,Black,SKU-001847
+235,,Airdopes 413 ANC,2499,BoatProduct,BoatProduct,Grey,SKU-001853
+236,,Airdopes 138,1499,BoatProduct,BoatProduct,Black,SKU-001859
+237,,Airdopes 171,1499,BoatProduct,BoatProduct,Blue,SKU-001877
+238,,Airdopes 181,1599,BoatProduct,BoatProduct,Grey,SKU-001883
+239,,Airdopes 451v2,2999,BoatProduct,BoatProduct,Blue,SKU-001889
+240,,Airdopes 601 ANC,2999,BoatProduct,BoatProduct,Silver,SKU-001901
+241,,Airdopes 441 Pro,2999,BoatProduct,BoatProduct,Black,SKU-001904
+242,,Airdopes 500 ANC,4499,BoatProduct,BoatProduct,Black,SKU-001915
+243,,Rockerz 235 V2,1183,BoatProduct,BoatProduct,Blue,SKU-001925
+244,,Rockerz 255 Pro+,1299,BoatProduct,BoatProduct,Blue,SKU-001931
+245,,Rockerz 245 V2,1299,BoatProduct,BoatProduct,Silver,SKU-001937
+246,,Rockerz 330,1299,BoatProduct,BoatProduct,Silver,SKU-001943
+247,,Rockerz 333,1399,BoatProduct,BoatProduct,Blue,SKU-001949
+248,,Rockerz 255,1299,BoatProduct,BoatProduct,Grey,SKU-001955
+249,,Rockerz 550,1999,BoatProduct,BoatProduct,Silver,SKU-001961
+250,,Rockerz 255 Pro,1399,BoatProduct,BoatProduct,Blue,SKU-001967
+251,,Rockerz 103 Pro,999,BoatProduct,BoatProduct,Grey,SKU-001973
+252,,Rockerz 255R,1299,BoatProduct,BoatProduct,Grey,SKU-002039
+253,,Rockerz 333 Pro,1799,BoatProduct,BoatProduct,Silver,SKU-002045
+254,,Rockerz 260,1299,BoatProduct,BoatProduct,Black,SKU-002051
+255,,Rockerz 335,1699,BoatProduct,BoatProduct,Silver,SKU-002057
+256,,Rockerz 510,1299,BoatProduct,BoatProduct,Black,SKU-002063
+257,,Rockerz 370,1199,BoatProduct,BoatProduct,Grey,SKU-002069
+258,,Rockerz 255 Neo,1299,BoatProduct,BoatProduct,Grey,SKU-002075
+259,,Rockerz 261,849,BoatProduct,BoatProduct,Black,SKU-002081
+260,,Rockerz 333 ANC,1899,BoatProduct,BoatProduct,Grey,SKU-002087
+261,,Rockerz 385 V2,1499,BoatProduct,BoatProduct,Black,SKU-002093
+262,,Rockerz 235 Pro,999,BoatProduct,BoatProduct,Blue,SKU-002099
+263,,Rockerz 255F,1299,BoatProduct,BoatProduct,Silver,SKU-002105
+264,,Rockerz 260 v1,1199,BoatProduct,BoatProduct,Blue,SKU-002111
+265,,Rockerz 330 Pro,1799,BoatProduct,BoatProduct,Silver,SKU-002117
+266,,Rockerz 400,1499,BoatProduct,BoatProduct,Blue,SKU-002123
+267,,Rockerz 245 Pro,1299,BoatProduct,BoatProduct,Silver,SKU-002129
+268,,Rockerz 205 Pro,999,BoatProduct,BoatProduct,Grey,SKU-002135
+269,,Rockerz 255 Pro Made in India,1399,BoatProduct,BoatProduct,Grey,SKU-002145
+270,,Rockerz 330 ANC,1999,BoatProduct,BoatProduct,Blue,SKU-002157
+271,,Rockerz 600,1699,BoatProduct,BoatProduct,Blue,SKU-002163
+272,,Rockerz 375,999,BoatProduct,BoatProduct,Blue,SKU-002169
+273,,Rockerz 518,1599,BoatProduct,BoatProduct,Silver,SKU-002175
+274,,Nirvanaa 751 ANC,3999,BoatProduct,BoatProduct,Blue,SKU-002181
+275,,Rockerz 450R,1499,BoatProduct,BoatProduct,Grey,SKU-002187
+276,,Rockerz 425,1499,BoatProduct,BoatProduct,Grey,SKU-002193
+277,,Rockerz 255 ARC,1299,BoatProduct,BoatProduct,Silver,SKU-002205
+278,,,,BoatProduct,BoatProduct,Silver,SKU-002212
+279,,Rockerz 558 Sunburn Edition,1999,Limited Edition,Limited Edition,Platinum,SKU-002213
+280,,Airdopes 383 Sunburn Edition,2499,Limited Edition,Limited Edition,Special Print,SKU-002214
+281,,Airdopes 131 Captain America Marvel Edition,1599,Limited Edition,Limited Edition,Special Print,SKU-002220
+282,,Airdopes 131 Iron Man Marvel Edition,1599,Limited Edition,Limited Edition,Black,SKU-002226
+283,,Bassheads 172 Sunburn Edition,349,Limited Edition,Limited Edition,Black,SKU-002232
+284,,BassHeads 152 Sunburn Edition,399,Limited Edition,Limited Edition,Gold,SKU-002238
+285,,Airdopes 381 Sunburn Edition,2999,Limited Edition,Limited Edition,Platinum,SKU-002275
+286,,Watch Storm - Captain America Marvel Edition,1999,Limited Edition,Limited Edition,Special Print,SKU-002276
+287,,Airdopes 441 KKR Edition,2499,Limited Edition,Limited Edition,Black,SKU-002277
+288,,Stone 190 - Captain America Marvel Edition,1299,Limited Edition,Limited Edition,Gold,SKU-002278
+289,,Stone SpinX 2.0 Bira Edition,2099,Limited Edition,Limited Edition,Gold,SKU-002280
+290,,Stone 190 - Iron Man Marvel Edition,1299,Limited Edition,Limited Edition,Gold,SKU-002286
+291,,Airdopes 381 Masaba Edition,2299,Limited Edition,Limited Edition,Black,SKU-002289
+292,,Stone 190 - Black Panther Marvel Edition,1299,Limited Edition,Limited Edition,Black,SKU-002291
+293,,Rockerz 450 - Iron Man Marvel Edition,1799,Limited Edition,Limited Edition,Gold,SKU-002292
+294,,Watch Storm - Black Panther Marvel Edition,1999,Limited Edition,Limited Edition,Gold,SKU-002298
+295,,Rockerz 550 Sunburn Edition,1499,Limited Edition,Limited Edition,Black,SKU-002300
+296,,Rockerz 600 KKR Edition,2499,Limited Edition,Limited Edition,Black,SKU-002306
+297,,Airdopes 441 - Masaba Edition,1799,Limited Edition,Limited Edition,Gold,SKU-002310
+298,,BassHeads 152 KKR Edition,549,Limited Edition,Limited Edition,Platinum,SKU-002316
+299,,Bassheads 172 KKR Edition,499,Limited Edition,Limited Edition,Black,SKU-002322
+300,,Airdopes 131 Batman DC Edition,999,Limited Edition,Limited Edition,Black,SKU-002323
+301,,Airdopes 131,999,Limited Edition,Limited Edition,Platinum,SKU-002329
+302,,Airdopes 441 Pro Special Batman Edition,2199,Limited Edition,Limited Edition,Special Print,SKU-002336
+303,,Rockerz 450 Batman DC Edition,1299,Limited Edition,Limited Edition,Gold,SKU-002342
+304,,Rockerz 450 DC edition,1299,Limited Edition,Limited Edition,Special Print,SKU-002348
+305,,Rockerz 450,1299,Limited Edition,Limited Edition,Special Print,SKU-002352
+306,,Misfit T50 Trimmer,989,Misfit,Misfit,Silver,SKU-002353
+307,,Misfit T50 Lite,879,Misfit,Misfit,Black,SKU-002359
+308,,Misfit T30 Trimmer,769,Misfit,Misfit,Black,SKU-002363
+309,,Misfit T200 3-in-1 Grooming Kit for Men,1199,Misfit,Misfit,Silver,SKU-002368
+310,,Misfit T200,1699,Misfit,Misfit,Black,SKU-002370
+311,,Misfit T150 Trimmer,1429,Misfit,Misfit,Black,SKU-002376
+312,,Mask,499,Mobile Accessories,Mobile Accessories,White,SKU-002401
+313,,Deuce 330,299,Mobile Accessories,Mobile Accessories,Black,SKU-002407
+314,,LTG 500 Indestructible Apple Certified Lightning Cable 2 Meter,899,Mobile Accessories,Mobile Accessories,Grey,SKU-002411
+315,,Micro USB 150 1.5 Meter,499,Mobile Accessories,Mobile Accessories,Transparent,SKU-002417
+316,,A400 USB Type C Data Cable,349,Mobile Accessories,Mobile Accessories,Grey,SKU-002419
+317,,Type C C400,499,Mobile Accessories,Mobile Accessories,Grey,SKU-002425
+318,,Rugged V3 Micro USB 1.5 Meter,299,Mobile Accessories,Mobile Accessories,Transparent,SKU-002431
+319,,Deuce USB 300,299,Mobile Accessories,Mobile Accessories,Black,SKU-002437
+320,,Micro USB 500 Cable 1.5 Meter,279,Mobile Accessories,Mobile Accessories,Transparent,SKU-002485
+321,,LTG 500 Indestructible Apple Certified Lightning Cable 1 Meter,799,Mobile Accessories,Mobile Accessories,White,SKU-002491
+322,,Energyshroom PB10,949,Mobile Accessories,Mobile Accessories,Black,SKU-002497
+323,,Energyshroom PB9,949,Mobile Accessories,Mobile Accessories,Grey,SKU-002498
+324,,Dual Port Rapid Car Charger (Qualcomm Certified),449,Mobile Accessories,Mobile Accessories,Transparent,SKU-002500
+325,,Micro USB 100 1 Meter,199,Mobile Accessories,Mobile Accessories,White,SKU-002506
+326,,Dual QC-PD Port Rapid Car Charger With Power Delivery Cable,699,Mobile Accessories,Mobile Accessories,Grey,SKU-002512
+327,,Dual QC-PD Port Rapid Car Charger With Type C Cable,599,Mobile Accessories,Mobile Accessories,Transparent,SKU-002514
+328,,Wave Select,2099,smart watches,smart watches,Grey,SKU-002519
+329,,Storm Call,1799,smart watches,smart watches,Green,SKU-002525
+330,,Wave Beat,1499,smart watches,smart watches,Silver,SKU-002531
+331,,Wave Neo,1499,smart watches,smart watches,Rose Gold,SKU-002536
+332,,Wave Connect,2999,smart watches,smart watches,Rose Gold,SKU-002542
+333,,Xtend‌,2699,smart watches,smart watches,Teal,SKU-002548
+334,,Wave Call,1799,smart watches,smart watches,Red,SKU-002554
+335,,Wave Lite,1699,smart watches,smart watches,Grey,SKU-002560
+336,,Watch Flash,1399,smart watches,smart watches,Green,SKU-002566
+337,,Storm,1499,smart watches,smart watches,Red,SKU-002625
+338,,Wave Style,1449,smart watches,smart watches,Green,SKU-002631
+339,,Xplorer‌‌ O2,3999,smart watches,smart watches,Grey,SKU-002637
+340,,Wave Pro,1499,smart watches,smart watches,Green,SKU-002643
+341,,Blaze,3499,smart watches,smart watches,Grey,SKU-002649
+342,,Matrix,3499,smart watches,smart watches,Silver,SKU-002655
+343,,Xtend Talk,2999,smart watches,smart watches,Black,SKU-002661
+344,,Storm Pro,2499,smart watches,smart watches,Teal,SKU-002667
+345,,Xtend Sport,2499,smart watches,smart watches,Rose Gold,SKU-002673
+346,,Mystiq,2499,smart watches,smart watches,Silver,SKU-002679
+347,,Wave Pro 47,1799,smart watches,smart watches,Teal,SKU-002684
+348,,TRebel Matrix,4999,smart watches,smart watches,Blue,SKU-002690
+349,,TRebel Blaze,3999,smart watches,smart watches,Grey,SKU-002691
+350,,TRebel Xtend‌,3499,smart watches,smart watches,Red,SKU-002697
+351,,Wave Play,1999,smart watches,smart watches,Blue,SKU-002700
+352,,Watch Storm - Iron Man Marvel Edition,1999,smart watches,smart watches,Green,SKU-002701
+353,,Watch Storm - Black Panther Marvel Edition,1999,smart watches,smart watches,Red,SKU-002703
+354,,Wave Ultima,2999,smart watches,smart watches,Green,SKU-002705
+355,,Watch Storm - Captain America Marvel Edition,1999,smart watches,smart watches,Black,SKU-002709
+356,,TRebel Watch Straps,399,smart watches,smart watches,Grey,SKU-002710
+357,,Wave Voice,2699,smart watches,smart watches,Green,SKU-002711
+358,,Storm RTL,2999,smart watches,smart watches,Black,SKU-002712
+359,,TRebel Blaze,3999,TRebel,TRebel,Black,SKU-002715
+360,,TRebel Rockerz 333,1599,TRebel,TRebel,Blue,SKU-002721
+361,,TRebel Airdopes 381,2199,TRebel,TRebel,Black,SKU-002727
+362,,TRebel Airdopes 402,1999,TRebel,TRebel,White,SKU-002733
+363,,TRebel BassHeads 100,399,TRebel,TRebel,Purple,SKU-002739
+364,,TRebel Xtend‌,3499,TRebel,TRebel,Purple,SKU-002745
+365,,TRebel Rockerz 450,1499,TRebel,TRebel,White,SKU-002748
+366,,TRebel BassHeads 103,499,TRebel,TRebel,Black,SKU-002749
+367,,TRebel Airdopes 141,1499,TRebel,TRebel,Purple,SKU-002755
+368,,TRebel BassHeads 102,399,TRebel,TRebel,White,SKU-002807
+369,,"TRebel Airdopes 171 - Wireless Earbuds with 6mm Drivers, 380mAh Charging cum Carrying Case, IPX4 Sweat and Water Resistance, 13H nonstop Music",1799,TRebel,TRebel,Blue,SKU-002813
+370,,TRebel Matrix,4999,TRebel,TRebel,Purple,SKU-002816
+371,,TRebel Rockerz 330 Pro,1799,TRebel,TRebel,Purple,SKU-002817
+372,,Trebel Rockerz 255 Pro+,1599,TRebel,TRebel,Black,SKU-002820
+373,,TRebel Airdopes 181,1599,TRebel,TRebel,Purple,SKU-002826
+374,,TRebel Watch Straps,399,TRebel,TRebel,Purple,SKU-002830
+375,,TRebel Rockerz 235 V2,1199,TRebel,TRebel,Purple,SKU-002831
+376,,TRebel Airdopes 131,1299,TRebel,TRebel,White,SKU-002837
+377,,TRebel BassHeads 152,499,TRebel,TRebel,Black,SKU-002843
+378,,TRebel Airdopes 441 Pro,2999,TRebel,TRebel,Pink,SKU-002849
+379,,TRebel Rockerz 255 Pro,1499,TRebel,TRebel,White,SKU-002854
